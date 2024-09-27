@@ -1,5 +1,5 @@
 # LITA_CLASS_DOCUMENTATION
-This is where i want to put my first project while learning data analysis with the incubator hub
+This is where i want to document my first project while learning data analysis with the incubator hub
 ---
 ### DATA CLEANING AND PREPARATIONS
 ---
