@@ -21,7 +21,7 @@ This is where we include some basic lines of code or query or even some of the D
 expressions used during your analysis;
 
 
-"""SQL
+```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
-"""
+```
