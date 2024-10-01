@@ -1,5 +1,11 @@
 # LITA_CLASS_DOCUMENTATION
 This is where i want to document my first project while learning data analysis with the incubator hub
+
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
 ---
 ### DATA CLEANING AND PREPARATIONS
 ---
@@ -25,3 +31,9 @@ expressions used during your analysis;
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+💻
+
+😊
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|--------|----------|
+|TABLE 1|TABLE 2|TABLE 3|
