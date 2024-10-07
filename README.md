@@ -3,6 +3,12 @@ This is where i want to document my first project while learning data analysis w
 
 ### PROJECT TITTLE: E COMMERCE SALES ANALYSIS
 
+[PROJECT OVERVIEW](#project-overview)
+
+[DATA SOURCE](#data-source)
+
+[TOOLS USED](#tools-used)
+
 [DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
 
 [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
