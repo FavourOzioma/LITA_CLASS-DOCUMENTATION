@@ -3,6 +3,12 @@ This is where i want to document my first project while learning data analysis w
 
 ### PROJECT TITTLE: E COMMERCE SALES ANALYSIS
 
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
 ### PROJECT OVERVIEW
 ---
 The Dta Analysis project aims to generate insight into bthe sales performance
@@ -52,13 +58,12 @@ WHERE CONDITION = TRUE
 ```
    
 
+[DEALER'S PRIDE EXPENSES.xlsx](https://github.com/user-attachments/files/17277338/DEALER.S.PRIDE.EXPENSES.xlsx)
+
+[2024.Budget (1).xlsx](https://github.com/user-attachments/files/17277357/2024.Budget.1.xlsx)
 
 
-[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
 
-[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
-
-[DATA ANALYSIS](#data-analysis)
 ---
 
 💻
